@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #42a4dc;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centrar el título */
+h1.titulo {
+    text-align: center;
+    color: #e63bad;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+/* Sección de información personal */
+#informacion-personal {
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    background: #849dff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Encabezados */
+h2 {
+    color: #444;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 5px;
+}
+
+/* Párrafos */
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Listado de materias */
+#informacion-personal h1 {
+    color: #222;
+    font-size: 1.5em;
+    margin-top: 15px;
+}
+
+#informacion-personal p {
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
